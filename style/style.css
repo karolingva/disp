@@ -1,0 +1,108 @@
+/* 
+
+Colour palette:
+
+
+$charcoal-brown: #28301Bff;
+$dust-grey: #DDD9D0ff;
+$olive-leaf: #485925ff;
+$dark-slate-grey: #273A32ff;
+
+$charcoal-blue: #305361ff;
+$cerulean: #4B7A89ff;
+$air-force-blue: #6C949Eff;
+
+
+*/
+
+
+body {
+  width: 100%;
+  padding:0px;
+  margin: 50px 0px 0px 0px;
+  font-family: "Linux Libertine", sans-serif;
+  background-color: #f5f1e9;
+}
+
+/* FONTS */
+
+h1 {
+  font-family: "Linux Libertine Capitals", sans-serif;
+  font-weight: 400;
+  font-size: 2.8em;
+  color: #305361ff;
+  padding: 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+h2 {
+  font-family: "Linux Libertine", sans-serif;
+  font-weight: 600;
+  font-size: 2em;
+  color: #4B7A89ff;
+  padding: 0px;
+  margin: 40px 0px 10px 0px;
+}
+
+h3 {
+  font-family: "Linux Libertine Slanted", sans-serif;
+  font-weight: 300;
+  font-size: 1.6em;
+  color: #4B7A89ff;
+}
+
+p { 
+  font-size: 1.3em;
+  color: #273A32ff;
+  padding: 10px 0px 0px 0px;
+  margin: 0px 0px 10px 0px;
+}
+
+ul { 
+  font-size: 1.3em;
+  list-style-type: circle;
+}
+
+ul.a { 
+  font-size: 1.3em;
+  list-style-type: none;
+  padding: 10px 0px 0px 0px;
+  margin: 0px 0px 10px 0px;
+}
+
+em {
+  color:#4B7A89ff
+}
+
+a {
+  color: #4B7A89ff;
+}
+
+a:link {
+  text-decoration: none;
+  color: #6C949Eff;
+}
+a:visited {
+  text-decoration: none;
+  color: #4B7A89ff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #28301Bff;
+}
+
+/* REST OF PAGE */ 
+
+
+
+
+
+.box {
+  justify-content: center;
+  margin: 20px;
+  background-color: #f5f1e9;
+}
+
+
+
