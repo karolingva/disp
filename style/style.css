@@ -26,6 +26,13 @@ body {
 
 /* FONTS */
 
+@font-face {
+font-family: "Linux Libertine";
+src: url("LinLibertine_DR.ttf") format("truetype");
+src: url("LinLibertine_RI.ttf") format("truetype");
+src: url("LinLibertine_aSl.ttf") format("truetype");
+}
+
 h1 {
   font-family: "Linux Libertine Capitals", serif;
   font-weight: 400;
