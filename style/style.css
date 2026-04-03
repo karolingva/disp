@@ -66,6 +66,11 @@ p {
   margin: 0px 0px 10px 0px;
 }
 
+blockquote { 
+  font-size: 1.3em;
+  color: #273A32ff;
+}
+
 ul { 
   font-size: 1.3em;
   list-style-type: circle;
